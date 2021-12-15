@@ -1,0 +1,1 @@
+state2|s:4:"play";GuessGame|O:9:"GuessGame":4:{s:12:"secretNumber";i:8;s:10:"numGuesses";i:1;s:7:"history";a:1:{i:0;s:31:"Guess #1 was 3 and was too low.";}s:5:"state";s:7:"too low";}
